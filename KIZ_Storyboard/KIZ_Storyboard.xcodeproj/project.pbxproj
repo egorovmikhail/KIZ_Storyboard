@@ -45,6 +45,7 @@
 		816E689B2540683B00567971 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				8195415425404B7900FE79A8 /* ViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -52,6 +53,7 @@
 		816E689C2540684900567971 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				8195415025404B7900FE79A8 /* AppDelegate.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -78,8 +80,6 @@
 				816E689C2540684900567971 /* Controller */,
 				816E689B2540683B00567971 /* View */,
 				816E689A2540682C00567971 /* Model */,
-				8195415025404B7900FE79A8 /* AppDelegate.swift */,
-				8195415425404B7900FE79A8 /* ViewController.swift */,
 				8195415625404B7900FE79A8 /* Main.storyboard */,
 				8195415925404B7B00FE79A8 /* Assets.xcassets */,
 				8195415B25404B7B00FE79A8 /* LaunchScreen.storyboard */,
