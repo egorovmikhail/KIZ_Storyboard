@@ -35,21 +35,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8102E473254063850088CCF5 /* Model */ = {
+		816E689A2540682C00567971 /* Model */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Model;
 			sourceTree = "<group>";
 		};
-		8102E474254063AC0088CCF5 /* View */ = {
+		816E689B2540683B00567971 /* View */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		8102E475254063BD0088CCF5 /* Controller */ = {
+		816E689C2540684900567971 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
 			);
@@ -75,9 +75,9 @@
 		8195414F25404B7900FE79A8 /* KIZ_Storyboard */ = {
 			isa = PBXGroup;
 			children = (
-				8102E475254063BD0088CCF5 /* Controller */,
-				8102E474254063AC0088CCF5 /* View */,
-				8102E473254063850088CCF5 /* Model */,
+				816E689C2540684900567971 /* Controller */,
+				816E689B2540683B00567971 /* View */,
+				816E689A2540682C00567971 /* Model */,
 				8195415025404B7900FE79A8 /* AppDelegate.swift */,
 				8195415425404B7900FE79A8 /* ViewController.swift */,
 				8195415625404B7900FE79A8 /* Main.storyboard */,
