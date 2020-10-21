@@ -1,0 +1,6 @@
+framework module Pods_KIZ_Storyboard {
+  umbrella header "Pods-KIZ_Storyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
