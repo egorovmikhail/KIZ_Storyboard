@@ -89,7 +89,10 @@
 				816E689C2540684900567971 /* Controller */,
 				816E689B2540683B00567971 /* View */,
 				816E689A2540682C00567971 /* Model */,
-				8195414F25404B7900FE79A8 /* KIZ_Storyboard */,
+				8195415625404B7900FE79A8 /* Main.storyboard */,
+				8195415925404B7B00FE79A8 /* Assets.xcassets */,
+				8195415B25404B7B00FE79A8 /* LaunchScreen.storyboard */,
+				8195415E25404B7B00FE79A8 /* Info.plist */,
 				8195414E25404B7900FE79A8 /* Products */,
 				540B8F7C3F0E4133FC76CDF1 /* Pods */,
 				5FBB0DA63D03A10D4C25F9DB /* Frameworks */,
@@ -102,17 +105,6 @@
 				8195414D25404B7900FE79A8 /* KIZ_Storyboard.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		8195414F25404B7900FE79A8 /* KIZ_Storyboard */ = {
-			isa = PBXGroup;
-			children = (
-				8195415625404B7900FE79A8 /* Main.storyboard */,
-				8195415925404B7B00FE79A8 /* Assets.xcassets */,
-				8195415B25404B7B00FE79A8 /* LaunchScreen.storyboard */,
-				8195415E25404B7B00FE79A8 /* Info.plist */,
-			);
-			path = KIZ_Storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -381,7 +373,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = SPAUA3R9XX;
-				INFOPLIST_FILE = KIZ_Storyboard/Info.plist;
+				INFOPLIST_FILE = Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -401,7 +393,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = SPAUA3R9XX;
-				INFOPLIST_FILE = KIZ_Storyboard/Info.plist;
+				INFOPLIST_FILE = Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
